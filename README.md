@@ -13,7 +13,7 @@ Create a set of image processing scripts that take in `optical`, `infrared`, and
 2. Extract COVID-19 related features including cough, shortness of breath, fever, and heart rate (CSF+).
 3. Give the wearer real-time information based on each feature on the people in their surroundings.
 
-![Sample Output Image](https://i.imgur.com/kHHB6NP.jpg)
+![Sample Output Image](https://i.imgur.com/BMdLAFU.jpg)
 
 ### Machine Learning
 

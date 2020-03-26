@@ -24,7 +24,9 @@ for (x, y, w, h) in face_detect:
     cv2.putText(img,'Shortness of Breath: 30.2%, Medium Risk',(x+w+2, y+line_height*2), font, 3,(255,255,255),5,cv2.LINE_AA)
     cv2.putText(img,'Temperature: 37.1 C, Low Risk',(x+w+2, y+line_height*3), font, 3,(255,255,255),5,cv2.LINE_AA)
     cv2.putText(img,'Heart Rate: 72 BPM, Low Risk',(x+w+2, y+line_height*4), font, 3,(255,255,255),5,cv2.LINE_AA)
-    cv2.putText(img,'Risk Assessment: 10.2%, Low Risk',(x+w+2, y+line_height*6), font, 3,(255,255,255),8,cv2.LINE_AA)
+    cv2.putText(img,'Distance: 2.2m, Medium Risk',(x+w+2, y+line_height*5), font, 3,(255,255,255),5,cv2.LINE_AA)
+
+    cv2.putText(img,'Risk Assessment: 15.2%, Low Risk',(x+w+2, y+line_height*7), font, 3,(255,255,255),8,cv2.LINE_AA)
 
     break
 
