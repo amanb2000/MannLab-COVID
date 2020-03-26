@@ -13,6 +13,8 @@ Create a set of image processing scripts that take in `optical`, `infrared`, and
 2. Extract COVID-19 related features including cough, shortness of breath, fever, and heart rate (CSF+).
 3. Give the wearer real-time information based on each feature on the people in their surroundings.
 
+![Sample Output Image](https://i.imgur.com/kHHB6NP.jpg)
+
 ### Machine Learning
 
 Create a set of algorithms that are able to determine the wearer's COVID-19 risk based on weighted absement and presement values and the extracted features outlined above. Algorithms that are able to more accurately diagnose/evaluate the risk of those in the viscinity are also of interest.
