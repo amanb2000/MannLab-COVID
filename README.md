@@ -23,6 +23,8 @@ Create a set of algorithms that are able to determine the wearer's COVID-19 risk
 
 1. `CV`: For computer vision related scripts and files.
 2. `media`: For sample data (IR, Radar, and Optical).
+3. `notebook`: Jupyter notebooks for Radar processing and analysis.
+4. `chirplet_analysis`: MatLab scripts for Chirplet Transform.
 
 ## File Structure
 
