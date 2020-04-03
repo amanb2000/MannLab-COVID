@@ -1,0 +1,6 @@
+sf         Scale versus Frequency
+sf avg     averages out the larger number of realizations at higher freq
+
+ff         freq-freq plane of chirplet transform
+tff        time-frequency-frequency volume of chirplet transform (t evol. of ff)
+
